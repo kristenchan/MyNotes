@@ -1,1 +1,7 @@
 # MyNotes
+
+### Greenplum
+
+
+
+### My SQL
